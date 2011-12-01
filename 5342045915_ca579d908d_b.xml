@@ -1,0 +1,25 @@
+<baseimage image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b.jpg" name="5342045915_ca579d908d_b">
+<marker name="joshua" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b/5342045915_ca579d908d_b_mrk1_mask.png"/>
+<sample image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b/5342045915_ca579d908d_b_mrk1_sample.png"/>
+<center x="727.04" y="277.12"/>
+<fullRect h="516.83997" w="314.88" x="587.51996" y="159.0"/>
+<faceRect h="106.24" w="104.96" x="674.56" y="224.0"/>
+</marker>
+<marker name="marcin" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b/5342045915_ca579d908d_b_mrk2_mask.png"/>
+<sample image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b/5342045915_ca579d908d_b_mrk2_sample.png"/>
+<center x="264.04" y="326.25998"/>
+<faceTriangle a.x="292.0" a.y="318.0" b.x="253.0" b.y="317.0" c.x="270.0" c.y="362.5"/>
+<fullRect h="469.75995" w="329.0906" x="85.629395" y="211.2"/>
+<faceRect h="117.47998" w="115.92" x="206.08" y="267.52"/>
+</marker>
+<marker name="chris" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b/5342045915_ca579d908d_b_mrk3_mask.png"/>
+<sample image="/Users/hari/Work/CIID/Final/Prototype/MetaMaker/Photoscopy/5342045915_ca579d908d_b/5342045915_ca579d908d_b_mrk3_sample.png"/>
+<center x="487.72" y="272.63998"/>
+<faceTriangle a.x="466.5" a.y="255.5" b.x="504.5" b.y="251.5" c.x="489.0" c.y="302.0"/>
+<fullRect h="526.24" w="325.0363" x="335.36" y="156.0"/>
+<faceRect h="107.52" w="107.439995" x="434.0" y="218.87999"/>
+</marker>
+</baseimage>

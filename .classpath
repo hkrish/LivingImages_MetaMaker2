@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="lib/base/core/ant-launcher.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/ant.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/controlP5/controlP5.jar" sourcepath="/Users/hari/Work/Processing/libraries/controlP5/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/controlP5"/>
+			<attribute name="javadoc_location" value="file:/Users/hari/Work/Processing/libraries/controlP5/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacpp.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv-android-arm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv-linux-x86.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv-linux-x86_64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv-macosx-x86_64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv-windows-x86.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv-windows-x86_64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/javacv/javacv.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/javacv"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/toxiclibs-complete-0020/toxiclibs.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LivingImages_MetaMaker2/lib/user/toxiclibs-complete-0020"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

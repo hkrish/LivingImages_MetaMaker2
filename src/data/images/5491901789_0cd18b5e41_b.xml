@@ -1,0 +1,34 @@
+<baseimage image="/Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b.jpg" name="5491901789_0cd18b5e41_b">
+<marker name="ali" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk1_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk1_sample.png"/>
+<center x="306.5" y="213.5"/>
+<faceTriangle a.x="295.0" a.y="210.0" b.x="321.25" b.y="208.75" c.x="307.5" c.y="238.75"/>
+<fullRect h="360.917" w="211.29616" x="199.35193" y="137.0"/>
+<faceRect h="69.0" w="69.0" x="272.0" y="179.0"/>
+</marker>
+<marker name="daim" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk2_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk2_sample.png"/>
+<center x="445.5" y="227.5"/>
+<fullRect h="352.15686" w="206.1676" x="350.4162" y="154.0"/>
+<faceRect h="69.0" w="69.0" x="411.0" y="193.0"/>
+</marker>
+<marker name="wan-ting" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<fullRect h="392.45343" w="229.75893" x="41.120537" y="150.0"/>
+</marker>
+<marker name="chris" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk4_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk4_sample.png"/>
+<center x="642.5" y="224.5"/>
+<fullRect h="352.15686" w="206.1676" x="529.4162" y="160.0"/>
+<faceRect h="53.0" w="53.0" x="616.0" y="198.0"/>
+</marker>
+<marker name="david" person="true" uri_facebook="" uri_flickr="" uri_twitter="">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk5_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5491901789_0cd18b5e41_b/5491901789_0cd18b5e41_b_mrk5_sample.png"/>
+<center x="768.5" y="240.5"/>
+<fullRect h="345.14877" w="202.06477" x="689.4676" y="164.0"/>
+<faceRect h="63.0" w="63.0" x="737.0" y="209.0"/>
+</marker>
+</baseimage>

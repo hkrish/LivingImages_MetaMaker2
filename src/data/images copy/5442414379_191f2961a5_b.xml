@@ -1,0 +1,26 @@
+<baseimage image="/Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b.jpg" name="5442414379_191f2961a5_b">
+<marker name="harsha" person="true" uri_facebook="www.facebook.com/hvr828" uri_flickr="" uri_twitter="http://twitter.com/#!/hvr828">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b/5442414379_191f2961a5_b_mrk1_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b/5442414379_191f2961a5_b_mrk1_sample.png"/>
+<center x="795.5" y="181.5"/>
+<faceTriangle a.x="781.5" a.y="174.0" b.x="809.5" b.y="172.0" c.x="794.5" c.y="203.0"/>
+<fullRect h="364.42" w="231.6707" x="679.1647" y="106.0"/>
+<faceRect h="71.0" w="71.0" x="760.0" y="146.0"/>
+</marker>
+<marker name="hyeona" person="true" uri_facebook="www.facebook.com/profile.php?id=648075865" uri_flickr="" uri_twitter="">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b/5442414379_191f2961a5_b_mrk2_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b/5442414379_191f2961a5_b_mrk2_sample.png"/>
+<center x="575.5" y="202.5"/>
+<faceTriangle a.x="560.0" a.y="196.25" b.x="590.0" b.y="193.75" c.x="577.5" c.y="232.5"/>
+<fullRect h="388.94827" w="247.26392" x="451.36804" y="121.0"/>
+<faceRect h="123.0" w="123.0" x="514.0" y="141.0"/>
+</marker>
+<marker name="yufan" person="true" uri_facebook="www.facebook.com/yufan.wang" uri_flickr="www.flickr.com/photos/yufangised" uri_twitter="">
+<mask image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b/5442414379_191f2961a5_b_mrk3_mask.png"/>
+<sample image="//Users/hari/Work/code/LivingImages_MetaMaker/src/data/images/5442414379_191f2961a5_b/5442414379_191f2961a5_b_mrk3_sample.png"/>
+<center x="399.0" y="252.0"/>
+<faceTriangle a.x="383.0" a.y="241.0" b.x="411.0" b.y="236.5" c.x="401.0" c.y="277.0"/>
+<fullRect h="388.94827" w="247.26392" x="269.36804" y="168.0"/>
+<faceRect h="82.0" w="82.0" x="358.0" y="211.0"/>
+</marker>
+</baseimage>
